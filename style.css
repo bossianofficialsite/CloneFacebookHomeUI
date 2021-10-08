@@ -1558,7 +1558,7 @@ nav .nav-content {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #d9d9d9;
+    background: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1589,6 +1589,7 @@ nav .nav-content {
     font: 600 1rem 'Arial', 'Helvetica', sans-serif;
     text-align: center;
     line-height: 30px;
+    color: darkred;
 }
 @media only screen and (max-width: 1200px) {
     .error-cont {
